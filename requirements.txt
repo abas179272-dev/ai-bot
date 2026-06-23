@@ -1,0 +1,3 @@
+pyrogram~=2.0
+aiohttp~=3.9
+tgcrypto~=1.2
